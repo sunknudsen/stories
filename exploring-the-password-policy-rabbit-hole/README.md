@@ -38,7 +38,7 @@ On recent T2-equipped Macs with FileVault enabled, brute-forcing password is the
 
 It really depends on operating system and password manager.
 
-[1Password](https://1password.com/), for example, encrypts user data using both [Secret Key](https://support.1password.com/secret-key-security/) and password while never sending either over the Internet thanks to a [Secure Remote Password](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol) (SRP) [implementation](https://support.1password.com/secure-remote-password/).
+[1Password](https://1password.com/), for example, encrypts user data using both [Secret Key](https://support.1password.com/secret-key-security/) and Master Password while never sending either over the Internet thanks to a [Secure Remote Password](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol) (SRP) [implementation](https://support.1password.com/secure-remote-password/).
 
 In the context of macOS, given both operating system and 1Password share same [user space](https://en.wikipedia.org/wiki/User_space), using two separate passwords yields little, if any, additional security.
 
@@ -112,7 +112,7 @@ $ openssl rand -hex 32
 ce7df8f96e691ec46e7cd2c7e1bad90f4432a6d6fb6e7a8ce880a841bed4d394
 ```
 
-Remembering above key would be hard right? Thankfully, keys can also be derived from passwords with less entropy using [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) such as [SHA-256](https://en.wikipedia.org/wiki/SHA-2) (generally not recommended) or [key derivation functions](https://en.wikipedia.org/wiki/Key_derivation_function) such as [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) (used by macOS to store passwords and 1Password to [secure](https://support.1password.com/pbkdf2/) master password) or [Argon2](https://en.wikipedia.org/wiki/Argon2) (used by [KeyPassXC](https://keepassxc.org/) to secure password).
+Remembering above key would be hard right? Thankfully, keys can also be derived from passwords with less entropy using [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) such as [SHA-256](https://en.wikipedia.org/wiki/SHA-2) (generally not recommended) or [key derivation functions](https://en.wikipedia.org/wiki/Key_derivation_function) such as [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) (used by 1Password and macOS) or [Argon2](https://en.wikipedia.org/wiki/Argon2) (used by [KeyPassXC](https://keepassxc.org/)).
 
 Using cryptographic hash function is only recommended when key is [wrapped](https://support.apple.com/en-ie/guide/security/sec4c6dc1b6e/1/web/1#secde6cf5956) in additional layer(s) of encryption (ever wondered why one can change encryption password instantly or how more than one user or recovery key can unlock [FileVault](https://en.wikipedia.org/wiki/FileVault) or [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) volumes?).
 
@@ -213,7 +213,7 @@ Putting physical security aside, computers are inherently insecure given their d
 
 As a result, **compartmentatlization is one’s first line of defence**. In other words, one should use [air-gapped](<https://en.wikipedia.org/wiki/Air_gap_(networking)>) devices (such as security keys or hardware wallets) to compartmentalize sensitive use cases.
 
-No matter how secure one’s passwords are, if [key logger](https://en.wikipedia.org/wiki/Keystroke_logging) is running on computer, one has been pwned.
+No matter how secure one’s passwords are, if [keylogger](https://en.wikipedia.org/wiki/Keystroke_logging) is running on computer, one has been pwned.
 
 ## Recommendations
 
