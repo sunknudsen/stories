@@ -1,6 +1,6 @@
 <!--
 Title: Exploring the password policy rabbit hole
-Description: In this story, I will guide you down the password policy rabbit hole shedding light on password entropy, hardware random number generators, key derivation functions, secure elements, information security and operations security and why deeply understanding these concepts is fundamental when adopting (or drafting) one’s password policy.
+Description: Exploring the password policy rabbit hole… how to avoid getting pwned while keeping some level of convenience.
 Cover image: office.jpg
 Publication date: 2021-08-11T11:27:23.819Z
 Listed: true
