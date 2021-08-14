@@ -227,6 +227,6 @@ Here are a few high value low opportunity cost recommendations that one should a
 - Always lock screen when away and shutdown device when in transit (especially when going through customs).
 - Never schedule password rotations (unless password has been compromised)
 
-Hope this research is helpful to other.
+Hope this research is helpful to others.
 
 Stay safe!
