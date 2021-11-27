@@ -1,6 +1,6 @@
 <!--
 Title: Introducing privacy-conscious meetups
-Description: Happy to annonce that first privacy-conscious meetup will happen on December 4th 2021 at 1PM EST (Montreal-time).
+Description: Happy to announce that first privacy-conscious meetup will happen on December 4th 2021 at 1PM EST (Montreal-time).
 Cover image: meetups.jpg
 Publication date: 2021-11-27T17:28:52.018Z
 Listed: true
@@ -10,7 +10,7 @@ Listed: true
 
 Now that name change is out of the way, according to [this](https://www.youtube.com/post/UgkxRQ9m4G2c5-JuM6XOzgYgacLwI52lC0xW) poll, getting together on Saturday afternoon is best.
 
-Happy to annonce that first privacy-conscious meetup will happen on **December 4th 2021 at 1PM EST** (Montreal-time).
+Happy to announce that first privacy-conscious meetup will happen on **December 4th 2021 at 1PM EST** (Montreal-time).
 
 Rendezvous point is [https://meet.sunknudsen.com/privacy-conscious-meetup](https://meet.sunknudsen.com/privacy-conscious-meetup) (proudly [self-hosted](/privacy-guides/how-to-self-host-hardened-jitsi-server) at [Njalla](https://njal.la/) in Sweden).
 
