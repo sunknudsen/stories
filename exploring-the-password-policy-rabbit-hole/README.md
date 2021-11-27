@@ -229,7 +229,7 @@ Here are a few high value low opportunity cost recommendations that one should a
 - Always enable [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (when possible) and favor [FIDO U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) or [FIDO2](https://en.wikipedia.org/wiki/FIDO2_Project) (to mitigate [phishing](https://en.wikipedia.org/wiki/Phishing) attacks) unless physical attack (such as targeted theft) is a non-theoretical threat model (and never store [TOTP](https://en.wikipedia.org/wiki/Time-based_One-Time_Password) hashes in password manager unless air-gapped)
 - Always use password manager to generate long random passwords for online accounts (and never reuse password for more than one account)
 - Always compartmentalize sensitive data and computing (for example, using security key to secure one’s PGP private keys or using hardware wallet to secure one’s crypto)
-- Always lock screen when away and shutdown device when in transit (especially when going through customs).
+- Always lock screen when away and shutdown device when in transit (especially when going through customs)
 - Never schedule password rotations (unless password has been compromised)
 
 Hope this research is helpful to others.
