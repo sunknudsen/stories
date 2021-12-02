@@ -24,6 +24,6 @@ In the meantime, here’s how you can get ready.
 - Prepare a beverage of your liking
 - Prepare any questions you have
 
-Please keep an eye on [https://sunknudsen.com/meetups](https://sunknudsen.com/meetups) (this page) for updates.
+Please keep an eye on this page for updates.
 
 **Pumped!**
