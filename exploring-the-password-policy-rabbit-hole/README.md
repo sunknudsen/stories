@@ -117,7 +117,7 @@ $ openssl rand -hex 32
 ce7df8f96e691ec46e7cd2c7e1bad90f4432a6d6fb6e7a8ce880a841bed4d394
 ```
 
-Remembering above key would be hard right? Thankfully, keys can also be derived from passwords using [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) such as [SHA-256](https://en.wikipedia.org/wiki/SHA-2) (generally not recommended) or [key derivation functions](https://en.wikipedia.org/wiki/Key_derivation_function) such as [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) (used by 1Password and macOS) or [Argon2](https://en.wikipedia.org/wiki/Argon2) (used by [KeyPassXC](https://keepassxc.org/)).
+Remembering above key would be hard right? Thankfully, keys can also be derived from passwords using [cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function) such as [SHA-256](https://en.wikipedia.org/wiki/SHA-2) (generally not recommended) or [key derivation functions](https://en.wikipedia.org/wiki/Key_derivation_function) such as [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) (used by 1Password and macOS) or [Argon2](https://en.wikipedia.org/wiki/Argon2) (used by [KeePassXC](https://keepassxc.org/)).
 
 Using cryptographic hash function is only recommended when key is [wrapped](https://support.apple.com/en-ie/guide/security/sec4c6dc1b6e/1/web/1#secde6cf5956) in additional layer(s) of encryption. Ever wondered why one can change encryption password instantly or how more than one user (or recovery key) can unlock [FileVault](https://en.wikipedia.org/wiki/FileVault) or [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) volumes?.
 
