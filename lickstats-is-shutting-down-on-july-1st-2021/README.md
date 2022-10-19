@@ -14,7 +14,7 @@ At the time, I was learning as much as I could about digital marketing and notic
 
 Thanks to the help of many (**Annie-Claude Devriese**, **Claudia Loutfi**, **Ilias Benjelloun**, **Louis-Félix Binette** and **Tara Hunt** to name a few), Lickstats gained momentum.
 
-Together, we got Lickstats in the hands of amazing brands such as [C2 Montréal](https://www.c2montreal.com/#/), [Moment Factory](https://www.loreal.com/en/) and [L’oréal](https://www.loreal.com/en/) tracking millions of clicks originating from all over the world.
+Together, we got Lickstats in the hands of amazing brands such as [C2 Montréal](https://www.c2montreal.com/#/), [Moment Factory](https://www.loreal.com/en/) and [L’Oréal](https://www.loreal.com/en/) tracking millions of clicks originating from all over the world.
 
 Fast-forward a few years and the digital marketing landscape has changed a lot… **so have I.**
 
