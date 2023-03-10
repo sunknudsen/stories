@@ -8,7 +8,7 @@ Listed: true
 
 <span class="drop-cap">I</span>f you are reading this story, you likely have an iPhone or a Mac that you would like to use for as long as possible.
 
-Unfortunately, both iPhone and Mac devices have batteries that are not user serviceable even though they are [consumables](https://support.apple.com/en-us/HT208387) and have limited lifespan.
+Unfortunately, both iPhone and Mac devices have batteries that are not user-serviceable even though they are [consumables](https://support.apple.com/en-us/HT208387) and have limited lifespan.
 
 According to [research](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries), lithium batteries should ideally be charged to a maximum of 80% of their capacity and discharged to a minimum of 20% to increase their lifespan.
 
@@ -18,7 +18,7 @@ According to [research](https://batteryuniversity.com/article/bu-808-how-to-prol
 
 As a result, Apple has implemented a feature called [Optimized Battery Charging](https://support.apple.com/en-us/HT210512) available and enabled by default starting on iOS 13 and macOS Big Sur (requires “Location Services” which isn’t great for privacy).
 
-When Apple Silicon MacBook Air or Pro is chronically plugged (when using a dock for example), Optimized Battery Charging is supposed to [pause](https://support.apple.com/en-us/HT212049) charging when battery is charged to 80% to preserve its lifespan.
+When Apple Silicon MacBook Air or Pro is chronically plugged in (when using a dock for example), Optimized Battery Charging is supposed to [pause](https://support.apple.com/en-us/HT212049) charging when battery is charged to 80% to preserve its lifespan.
 
 Problem is… **it doesn’t**. At least this is what I noticed on my M1 MacBook Air (corroborated on my girlfriend’s M1 MacBook Air) when I investigated why capacity of battery was at 89% after only 50 charging cycles.
 
@@ -33,9 +33,9 @@ Problem is… **it doesn’t**. At least this is what I noticed on my M1 MacBook
 >
 > To find purchase date, please go to [https://checkcoverage.apple.com/](https://checkcoverage.apple.com/), enter serial number and hit “Submit”.
 
-Another common (and very expensive) issue with chronically plugged Macs is [swollen batteries](https://www.ifixit.com/Wiki/What_to_do_with_a_swollen_battery). To be fair, this is not an Apple-specific issue but rather one related to Lithium batteries in general. That said, I believe Apple could easily do something about it such as asking users to discharge battery to 20% once in a while.
+Another common (and very expensive) issue with chronically plugged in Macs is [swollen batteries](https://www.ifixit.com/Wiki/What_to_do_with_a_swollen_battery). To be fair, this is not an Apple-specific issue but rather one related to Lithium batteries in general. That said, I believe Apple could easily do something about it such as asking users to discharge battery to 20% once in a while.
 
-When I say **easily**, I mean it… here is how one can discharge battery of Apple Silicon Macs to 20% while plugged (using a secret trick).
+When I say **easily**, I mean it… here is how one can discharge battery of Apple Silicon Macs to 20% while plugged in (using a secret trick).
 
 ## Caveats
 
