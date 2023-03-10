@@ -22,7 +22,7 @@ When Apple Silicon MacBook Air or Pro is chronically plugged (when using a dock 
 
 Problem is… **it doesn’t**. At least this is what I noticed on my M1 MacBook Air (corroborated on my girlfriend’s M1 MacBook Air) when I investigated why capacity of battery was at 89% after only 50 charging cycles.
 
-> Heads-up: to contribute to project, please share cycle count, maximum capacity and purchase date of your Mac in the comments of YouTube episode.
+> Heads-up: to contribute to project, please share cycle count, maximum capacity and purchase date of your Mac in the comments of YouTube [episode](https://www.youtube.com/watch?v=Y6xRBItR2pM).
 >
 > To find cycle count and maximum capacity, run following command (without the `$`) in “Terminal” app.
 >
