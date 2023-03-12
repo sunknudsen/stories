@@ -58,7 +58,13 @@ $ xcode-select --install
 $ git clone https://github.com/hholtmann/smcFanControl
 ```
 
-### Step 3: compile and install [smc](https://github.com/hholtmann/smcFanControl/tree/master/smc-command) command
+### Step 3: create `/usr/local/bin` directory
+
+```console
+$ sudo mkdir -p /usr/local/bin
+```
+
+### Step 4: compile and install [smc](https://github.com/hholtmann/smcFanControl/tree/master/smc-command) command
 
 ```console
 $ cd smcFanControl/smc-command
@@ -68,7 +74,7 @@ $ make
 $ sudo cp smc /usr/local/bin/
 ```
 
-### Step 4: create `discharge.sh` convenience script
+### Step 5: create `discharge.sh` convenience script
 
 ```console
 $ cat << "EOF" | sudo tee /usr/local/bin/discharge.sh
@@ -101,7 +107,7 @@ cancel
 EOF
 ```
 
-### Step 5: make `discharge.sh` executable
+### Step 6: make `discharge.sh` executable
 
 ```console
 $ sudo chmod +x /usr/local/bin/discharge.sh
