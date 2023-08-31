@@ -4,6 +4,7 @@ Description: Exploring if Apple is deliberately killing our batteries… and wha
 Cover image: macbook-air.jpg
 Publication date: 2023-03-10T12:14:47.264Z
 Listed: true
+Pinned:
 -->
 
 <span class="drop-cap">I</span>f you are reading this story, you likely have an iPhone or a Mac that you would like to use for as long as possible.

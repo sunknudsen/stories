@@ -4,11 +4,10 @@ Description: Sharing why I decided to shutdown my PeerTube instance…
 Cover image: vlog.jpg
 Publication date: 2021-07-08T21:32:20.061Z
 Listed: true
+Pinned:
 -->
 
-<span class="drop-cap">I</span>f you are reading this story, you are likely one of my PeerTube viewers.
-
-This means you care about **decentralization** and **privacy** which is heartwarming (thanks for caring). 🤗
+<span class="drop-cap">I</span>f you are reading this story, you are likely one of my PeerTube viewers which means you care about **decentralization** and **privacy** which is heartwarming (thanks for caring). 🤗
 
 I was hoping the [privacy guides](/privacy-guides) project could become a full-time job… which is another great example of my entrepreneurial reality distortion field (especially given I declined a dozen sponsorships and have [disabled monetization](https://www.youtube.com/watch?v=P6YmdRryKZU) on YouTube).
 

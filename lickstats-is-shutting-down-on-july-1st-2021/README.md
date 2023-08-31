@@ -4,6 +4,7 @@ Description: Lickstats is shutting down on July 1st 2021… here’s why and how
 Cover image: lickstats.jpg
 Publication date: 2021-04-28T18:00:23.920Z
 Listed: true
+Pinned:
 -->
 
 <span class="drop-cap">B</span>ack in 2015 we were in a digital marketing gold rush. Tech marketers were the new “unicorns” and everyone wanted a piece of the action (including myself).
